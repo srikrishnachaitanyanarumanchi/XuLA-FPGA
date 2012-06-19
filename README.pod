@@ -1,5 +1,9 @@
 =head1 XuLA FPGA Designs
 
+<b><i>The contents of this directory are deprecated!</i></b> 
+The latest stuff is in the https://github.com/xesscorp/XuLA directory.
+But if you really do want these older files, then read on...
+
 Common and board-specific design files for the XuLA boards.
 
 =over 4
